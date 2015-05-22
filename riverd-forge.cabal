@@ -23,6 +23,7 @@ executable riverd-forge
     base >=4.8 && <4.9
     , conduit == 1.1.7
     , pontarius-xmpp == 0.4.2.0
+    , network
     , data-default
     , hslogger
     , mtl
